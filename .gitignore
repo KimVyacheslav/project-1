@@ -1,4 +1,4 @@
-.DS.store
+.DS_store
 .idea
 dist
 node_modules.DS_Store
